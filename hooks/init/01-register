@@ -1,0 +1,7 @@
+#!/bin/bash
+
+if [[ $- == *i* ]]; then
+
+  __profile_d_load__ ~/.liquidprompt/liquidprompt
+
+fi
