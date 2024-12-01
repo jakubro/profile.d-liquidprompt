@@ -14,7 +14,7 @@ information when you need it.
     - Git branch and status
     - Python virtual environment
     - And more...
-- Updates automatically when profile.d-update is run
+- Updates automatically when profile.d-install is run
 
 ## Installation
 
@@ -30,7 +30,7 @@ PLUGINS=(
 2. Run the installation commands:
 
 ```bash
-profile.d-update
+profile.d-install
 . ~/.bashrc
 ```
 
@@ -56,7 +56,7 @@ The plugin:
 
 1. Installs liquidprompt in `~/.liquidprompt` during the installation phase
 2. Loads liquidprompt's configuration on shell initialization
-3. Automatically updates liquidprompt when running profile.d-update
+3. Automatically updates liquidprompt when running profile.d-install
 
 ## Requirements
 
