@@ -58,10 +58,6 @@ The plugin:
 2. Loads liquidprompt's configuration on shell initialization
 3. Automatically updates liquidprompt when running profile.d-install
 
-## Requirements
-
-- Git (automatically installed by profile.d if missing)
-
 ## Contributing
 
 If you would like to contribute to this project, please feel free to submit a pull request or open an issue for
